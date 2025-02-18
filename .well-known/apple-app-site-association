@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "867PK76D9G.com.Mercedes-Benz.AppCLP",
-        "paths": [ "/clip/*" ]
+        "paths": [ "/clip" ]
       }
     ]
   },
