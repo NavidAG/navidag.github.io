@@ -7,5 +7,8 @@
         "paths": [ "/clip/*" ]
       }
     ]
+  },
+  "appclips": {
+    "apps": ["867PK76D9G.com.Mercedes-Benz.AppCLP.Clip"]
   }
 }
