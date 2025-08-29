@@ -1,0 +1,23 @@
+.play-button {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+
+        font-size: 50px;
+        color: white;
+        background: rgba(111, 111, 111, 0.7);
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding-left: 6px;
+        cursor: pointer;
+        transition: background 0.3s;
+}
+
+.play-button:hover {
+        background: rgba(225, 225, 225, 0.8);
+}
