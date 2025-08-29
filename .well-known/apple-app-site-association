@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "867PK76D9G.com.Mercedes-Benz.AppCLP",
+        "paths": [ "/clip" ]
+      }
+    ]
+  },
+  "appclips": {
+    "apps": ["867PK76D9G.com.Mercedes-Benz.AppCLP.Clip"]
+  }
+}
